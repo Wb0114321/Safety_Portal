@@ -1,0 +1,8 @@
+# 1. Sabhi changes ko track karo
+git add .
+
+# 2. Apne update ka ek naam (message) do
+git commit -m "Updated features in safety portal"
+
+# 3. GitHub par code push karo
+git push origin main
